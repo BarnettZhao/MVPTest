@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVPTest</string>
+    <string name="login_count_down_text">%d秒</string>
+
+</resources>
